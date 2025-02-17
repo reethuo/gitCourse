@@ -3,5 +3,4 @@ load balancer
 flipkart
 utube
 infra
-git
-terra
+git 
